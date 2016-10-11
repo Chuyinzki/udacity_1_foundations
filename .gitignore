@@ -1,4 +1,4 @@
 .idea/
-LocalServer.iml
+*.iml
 *.pyc
 
